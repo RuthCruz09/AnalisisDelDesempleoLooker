@@ -6,7 +6,7 @@ El proyecto tiene como fin Analizar la desocupación y las caracteristicas de la
 
 ## Dashboard
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](dashboardLooker.png)
 
 
 ## 🔗 Link del Proyecto en Looker Studio
